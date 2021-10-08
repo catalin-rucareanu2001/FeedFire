@@ -23,7 +23,7 @@ vector<float> RandWood(int n, int v, int k)
 	cout << endl;
 	return vals;
 }
-//generate rand values for caloric capacity
+//generate rand values for heat capacity
 
 vector <float> RemoveWood(vector<float> wood, int k)
 {
